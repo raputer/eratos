@@ -1,6 +1,6 @@
 import setuptools
 
-file = open('README', 'r')
+file = open('README.md', 'r')
 detail = file.read()
 file.close()
 
